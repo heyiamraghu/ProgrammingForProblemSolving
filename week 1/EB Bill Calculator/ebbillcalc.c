@@ -1,3 +1,11 @@
+/*
+This program identifies rate slab and then calculates your electricity bill.
+How to run this program: please ensure that your Terminal is in the same path as this program lives.
+step 1: gcc ebbillcalc.c -o ebbillcalc
+step 2: ./ebbillcalc
+
+*/
+
 #include "./rateslabfinder.h"
 
 int main()

@@ -1,3 +1,11 @@
+/*
+This program identifies whether the number given to it is odd or even.
+How to run this program: please ensure that your Terminal is in the same path as this program lives.
+step 1: gcc oddoreven.c -o oddoreven
+step 2: ./oddoreven
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
